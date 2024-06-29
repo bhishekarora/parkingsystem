@@ -56,6 +56,8 @@ This project captures video frames from an RTSP stream, extracts text using OCR,
 
     This script will connect to the RTSP stream, process the video frames to detect tail numbers, and post the detected tail numbers to the Flask API.
 
+    ![alt](https://github.com/bhishekarora/parkingsystem/blob/main/main.png)
+
 ## Configuration
 
 - **RTSP URL:** Set the RTSP URL in `tail_number_extractor.py` file.
