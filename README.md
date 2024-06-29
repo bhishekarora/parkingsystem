@@ -1,7 +1,7 @@
 # Tail Number Extractor with AMS Interface
 
 This project captures video frames from an RTSP stream, extracts text using OCR, and posts detected tail numbers to an external system (simulated using a Flask-based API).
-
+  ![alt](https://github.com/bhishekarora/parkingsystem/blob/main/main.png)
 ## Project Structure
 
 - `ams_server.py`: Flask API that simulates the external system.
@@ -56,7 +56,7 @@ This project captures video frames from an RTSP stream, extracts text using OCR,
 
     This script will connect to the RTSP stream, process the video frames to detect tail numbers, and post the detected tail numbers to the Flask API.
 
-    ![alt](https://github.com/bhishekarora/parkingsystem/blob/main/main.png)
+  
 
 ## Configuration
 
