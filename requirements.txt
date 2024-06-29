@@ -1,0 +1,6 @@
+Flask==2.1.2
+opencv-python==4.5.3.56
+easyocr==1.4.1
+requests==2.26.0
+torch==1.9.0+cu111 # Optional, for GPU support
+gunicorn==20.1.0
